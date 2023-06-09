@@ -75,7 +75,7 @@ TextAnimation(text, effect=Effect.RANDOM)()
 
 #### [example4](https://github.com/soda480/text-animator/blob/main/examples/example4.py)
 
-Animate some text and display characters from left to right then surround text with a border. A border can be instantiated with top|bottom|left|right margins as well as top|bottom|left|right padding.  Margins define the space outside the border, and padding define the number of spaces inside the border next to the text.
+Animate some text and display characters from left to right then surround text with a border. A border can be customized with top|bottom|left|right margins as well as top|bottom|left|right padding, default for all margins and padding is 1.  Margins define the space outside the border, and padding define the space between the border and text.
 
 <details><summary>Code</summary>
 
